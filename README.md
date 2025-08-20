@@ -12,7 +12,7 @@
 
 На проверку направить скриншот с командой и результатом ее выполнения.
 
-`БУДУЩИЙ_СКРИН`
+![Задание 1](https://raw.githubusercontent.com/thereal669/netology-backup/main/img/task_1_rsync.jpg)
 
 ---
 
