@@ -29,6 +29,9 @@
 
 На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
+
+Содержимое скрипта:
+
 ```
 #!/bin/bash
 
@@ -51,10 +54,11 @@ fi
 
 ```
 
-Добавляем в cron:
+Добавляем в crontab:
 
 `*/5 * * * * /usr/local/bin/backup_home.sh`
 
+Все содержимое файла:
 
 ```
 # Edit this file to introduce tasks to be run by cron.
