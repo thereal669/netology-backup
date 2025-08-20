@@ -56,7 +56,7 @@ fi
 
 ### Добавляем в crontab:
 
-`*/5 * * * * /usr/local/bin/backup_home.sh`
+`0 2 * * * /usr/local/bin/backup_home.sh`
 
 ### Все содержимое файла:
 
