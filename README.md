@@ -12,7 +12,7 @@
 
 На проверку направить скриншот с командой и результатом ее выполнения.
 
-![Задание 1](https://raw.githubusercontent.com/thereal669/netology-backup/main/img/task_1_rsync.jpg)
+![Задание 1](https://raw.githubusercontent.com/thereal669/netology-backup/main/pics/task_1_rsync.jpg)
 
 ---
 
