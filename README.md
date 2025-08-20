@@ -30,7 +30,7 @@
 На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 
-Содержимое скрипта:
+### Содержимое скрипта:
 
 ```
 #!/bin/bash
@@ -54,11 +54,11 @@ fi
 
 ```
 
-Добавляем в crontab:
+### Добавляем в crontab:
 
 `*/5 * * * * /usr/local/bin/backup_home.sh`
 
-Все содержимое файла:
+### Все содержимое файла:
 
 ```
 # Edit this file to introduce tasks to be run by cron.
@@ -87,6 +87,6 @@ fi
 0 2 * * * /usr/local/bin/backup_home.sh
 ```
 
-Результат работы скрипта:
+### Результат работы скрипта:
 
 ![Задание 2](https://raw.githubusercontent.com/thereal669/netology-backup/main/pics/task_2_crontab.jpg)
